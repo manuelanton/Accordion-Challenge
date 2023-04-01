@@ -1,0 +1,20 @@
+.container {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+
+  position: absolute;
+  width: 820px;
+  height: 60%;
+  left: 45px;
+  top: 70px;
+
+  /* achromatic / white */
+
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
